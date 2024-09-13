@@ -8,7 +8,7 @@ trigger:
 
 pool:
   name: Test Self Hosted
-  vmImage: ubuntu-latest
+  vmImage: windows-latest
 
 variables:
   buildConfiguration: 'Release'
